@@ -1,0 +1,10 @@
+node_modules
+.git
+.github
+scripts
+feeds.yaml
+state.json
+.env
+.env.example
+README.md
+CLAUDE.md

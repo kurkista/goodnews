@@ -1,0 +1,47 @@
+name: Daily pick
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - run: npm ci
+
+      - run: node scripts/run.mjs
+
+      - name: Commit generated state and site if changed
+        id: commit
+        run: |
+          git config user.name 'goodnews-bot'
+          git config user.email 'goodnews-bot@users.noreply.github.com'
+          git add state.json public/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes to commit (no fresh pick today)."
+          else
+            git commit -m "chore: daily pick $(date -u +%Y-%m-%d)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: superfly/flyctl-actions/setup-flyctl@master
+        if: steps.commit.outputs.changed == 'true'
+
+      - name: Deploy to Fly.io
+        if: steps.commit.outputs.changed == 'true'
+        run: flyctl deploy --remote-only
+        env:
+          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}

@@ -1,0 +1,25 @@
+# Source RSS feeds for the daily rotation.
+# This is the only file that needs routine editing — add a new entry to grow
+# the pool, in the same {id, name, url} shape. `id` must be unique and stable
+# (it's referenced from state.json's rotation pointer and history).
+#
+# Verified live and single-story-per-item as of 2026-07-24. Excluded on
+# purpose: Fix The News / The Progress Network (weekly-digest and
+# podcast-episode formats, not single stories), goodnews.eu (German), Tank
+# Good News (defunct), Sunny Skyz / Future Crunch (no working feed found).
+
+- id: good-news-network
+  name: Good News Network
+  url: https://www.goodnewsnetwork.org/feed/
+- id: positive-news
+  name: Positive News
+  url: https://www.positive.news/feed/
+- id: reasons-to-be-cheerful
+  name: Reasons to be Cheerful
+  url: https://reasonstobecheerful.world/feed/
+- id: optimist-daily
+  name: The Optimist Daily
+  url: https://www.optimistdaily.com/feed/
+- id: yes-magazine
+  name: YES! Magazine
+  url: https://www.yesmagazine.org/feed

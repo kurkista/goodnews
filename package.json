@@ -1,0 +1,19 @@
+{
+  "name": "goodnews",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily good-news RSS relay — picks one story a day from a rotation of vetted sources.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "generate": "node scripts/run.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "feed": "^4.2.2",
+    "rss-parser": "^3.13.0",
+    "yaml": "^2.5.0"
+  }
+}
