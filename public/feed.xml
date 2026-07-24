@@ -4,11 +4,19 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Fri, 24 Jul 2026 06:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 07:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good News in History, July 24]]></title>
+            <link>https://www.goodnewsnetwork.org/events060724/</link>
+            <guid>163962c5dc1823f8d57e67a60e6cd5c7ebb7f816</guid>
+            <pubDate>Fri, 24 Jul 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Good News Network — read the full story at the original source.]]></description>
+            <category>Good News Network</category>
+        </item>
     </channel>
 </rss>

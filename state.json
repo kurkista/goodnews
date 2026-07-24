@@ -1,4 +1,14 @@
 {
-  "feedIndex": 0,
-  "history": []
+  "feedIndex": 1,
+  "history": [
+    {
+      "date": "2026-07-24",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Good News in History, July 24",
+      "link": "https://www.goodnewsnetwork.org/events060724/",
+      "guid": "163962c5dc1823f8d57e67a60e6cd5c7ebb7f816",
+      "publishedAt": "2026-07-24T07:00:00.000Z"
+    }
+  ]
 }
