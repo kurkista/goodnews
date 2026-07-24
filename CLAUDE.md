@@ -89,9 +89,13 @@ The `goodnews.kurkista.fi` CNAME lives in the 1984.is FreeDNS panel for
 kurkista.fi — Claude has no access to that zone. Any DNS change is a
 manual step for the owner.
 
-**No new tracking/ceremony files**
-One-person project — don't introduce session-log or status-file machinery
-uninvited. State lives in README/CLAUDE.md, git history, and `state.json`.
+**Session history**
+Every session that touches this repo — code, infra, or process — appends a
+dated entry to `SESSIONS.md`: what was done, and any incidents/bugs hit
+along the way, including how they were diagnosed and resolved. This is a
+deliberate exception to the usual "don't add tracking/ceremony files
+uninvited" instinct — the owner asked for this one specifically, so keep
+it current rather than treating it as optional.
 
 **LLM-assisted selection is out of scope for v1**
 Upgrading the daily pick from rotation to an LLM-assisted choice (using
