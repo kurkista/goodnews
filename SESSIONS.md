@@ -44,3 +44,43 @@ this repo) on the first attempt each time; both had to be re-run — the
 succeeded but only after being moved to a background task past the 120s
 foreground timeout. Not a goodnews bug, just a quirk of the environment
 worth remembering if it recurs.
+
+## 2026-07-24 — custom domain (goodnews.kurkista.fi) went live
+
+Finished the one item left pending from the initial launch: the custom
+domain now has a verified Let's Encrypt cert and serves the site + feed
+correctly (`200` on `/`, `application/rss+xml` on `/feed.xml`).
+
+**What actually happened, since it wasn't a straight DNS-add:**
+- The owner first used 1984's "Add new site" flow for
+  `goodnews.kurkista.fi`, which created a WordPress-capable hosting slot
+  on 1984's own infrastructure — unrelated to and not needed for this
+  project (goodnews is served entirely by the Fly app). No WordPress was
+  actually installed (opted out during creation), and the slot was left
+  in place rather than deleted, since it doesn't own any DNS and nothing
+  routes traffic to it as long as DNS points elsewhere. Worth remembering
+  if `goodnews.kurkista.fi` is ever touched again in 1984's panel — that
+  orphaned "Site" entry is still there.
+- The actual routing problem: `kurkista.fi`'s zone has a pre-existing
+  wildcard `CNAME * → @` (TTL 86400), so before an explicit record
+  existed, `goodnews.kurkista.fi` silently resolved to 1984's own hosting
+  IP instead of Fly. Fixed by adding explicit `A goodnews →
+  66.241.124.245` and `AAAA goodnews → 2a09:8280:1::153:bb0f:0` records
+  in 1984's FreeDNS zone editor (an exact-host record takes priority over
+  a wildcard, so this cleanly overrides it without touching the wildcard
+  or the zone's root `@` record).
+- Propagation took two separate hops to confirm: first to 1984's own
+  authoritative nameserver (a few minutes — this zone has secondary NS
+  behind what looks like periodic AXFR, so even 1984's own infra lagged
+  briefly), then separately for Let's Encrypt's own validators to see the
+  corrected records before `fly certs check` flipped from "Not verified"
+  to "Issued" (roughly another 10-15 minutes). Neither delay indicated a
+  misconfiguration — both were confirmed by querying `ns0.1984.is`
+  directly and just waiting.
+
+**Process note:** the DNS record changes (adding the two records in
+1984's panel) were made by Claude directly via a connected Chrome tab,
+with the owner's explicit go-ahead and explicit scope (two named
+records), after the owner suggested it to skip manual screenshot
+back-and-forth. The existing `@` root record was verified untouched
+before and after.
