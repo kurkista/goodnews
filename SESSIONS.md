@@ -84,3 +84,40 @@ with the owner's explicit go-ahead and explicit scope (two named
 records), after the owner suggested it to skip manual screenshot
 back-and-forth. The existing `@` root record was verified untouched
 before and after.
+
+## 2026-07-24 — owner subscribed via Blogtrottr; scheduling and subscriber-count questions
+
+No code changes this session — informational/verification only.
+
+- Compared Blogtrottr vs Feedrabbit on actual pricing/jurisdiction (not
+  from memory, per the vendor-recommendation rule): Blogtrottr (UK Ltd,
+  free tier = unlimited subscriptions, explicit EU-consumer VAT handling)
+  recommended over Feedrabbit (Australian, no GDPR/EU mention). Owner
+  logged into Blogtrottr and subscribed to `https://goodnews.kurkista.fi/feed.xml`
+  with Claude driving the connected Chrome tab, confirmed after the
+  owner's explicit go-ahead; subscription created successfully (feed
+  health `HTTP 200 - OK`).
+- **Q: can email delivery be scheduled to a specific time?** Checked
+  Blogtrottr's actual schedule options (not assumed): only interval-based
+  (`as soon as possible` / N-hourly / daily digest), no clock-time
+  picker. The real lever is GoodNews's own cron in
+  `.github/workflows/daily.yml` (currently `0 4 * * *` UTC) — that's what
+  determines when the day's story actually appears in the feed. Not
+  changed this session; owner would need to say what time/timezone they
+  want.
+- **Q: can we get a subscriber count/list?** Declined to build this —
+  it directly conflicts with the "no subscriber data, ever" rule in
+  CLAUDE.md, which exists specifically to keep GoodNews out of GDPR
+  data-controller territory. Any real subscriber list or count would
+  require either storing subscriber identities (the mailing-list
+  approach rejected during initial planning) or logging/fingerprinting
+  fetches of `feed.xml` (the kind of visitor-identity analytics the same
+  rule explicitly bans) — and even then, a fetch count isn't a subscriber
+  count, since bridges like Blogtrottr consolidate many end-subscribers
+  behind one fetch. When the owner clarified they just wanted to sanity-
+  check "is anything fetching this at all," that's answerable without
+  building anything: `fly logs -a goodnews` (Fly's own ephemeral,
+  platform-level request log — not something this project stores or
+  owns) showed live `Blogtrottr/2.0`/`2.1` requests to `/feed.xml` right
+  after the subscription was created. Confirmed activity exists; did not
+  and should not persist or aggregate this anywhere.
