@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Fri, 24 Jul 2026 05:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 08:00:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When It Comes to Addiction Treatment, ‘Any Door Should Be the Right Door’]]></title>
+            <link>https://reasonstobecheerful.world/hub-and-spoke-addiction-treatment/</link>
+            <guid>a5357424b7bbabdcf0c4ff85cac5e3fe36893dc4</guid>
+            <pubDate>Fri, 24 Jul 2026 08:00:24 GMT</pubDate>
+            <description><![CDATA[Reasons to be Cheerful — read the full story at the original source.]]></description>
+            <category>Reasons to be Cheerful</category>
+        </item>
         <item>
             <title><![CDATA[What went right this week: the good news that matters]]></title>
             <link>https://www.positive.news/society/good-news-stories-from-week-30-of-2026/</link>
