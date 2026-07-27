@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -27,6 +27,15 @@
       "link": "https://reasonstobecheerful.world/hub-and-spoke-addiction-treatment/",
       "guid": "a5357424b7bbabdcf0c4ff85cac5e3fe36893dc4",
       "publishedAt": "2026-07-24T08:00:24.000Z"
+    },
+    {
+      "date": "2026-07-27",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "Soft decluttering: the low-pressure method for a tidier home",
+      "link": "https://www.optimistdaily.com/2026/07/soft-decluttering-the-low-pressure-method-for-a-tidier-home/",
+      "guid": "e74650687ec85c80a78b1194027e8930605aec72",
+      "publishedAt": "2026-07-27T00:00:50.000Z"
     }
   ]
 }
