@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -36,6 +36,15 @@
       "link": "https://www.optimistdaily.com/2026/07/soft-decluttering-the-low-pressure-method-for-a-tidier-home/",
       "guid": "e74650687ec85c80a78b1194027e8930605aec72",
       "publishedAt": "2026-07-27T00:00:50.000Z"
+    },
+    {
+      "date": "2026-07-28",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Odd Texas Ranch ‘Raises’ Telescopes to Provide Dark Sky Viewing for Stargazers in Cities Remotely",
+      "link": "https://www.goodnewsnetwork.org/unusual-texas-ranch-raises-telescopes-to-provide-remote-dark-sky-viewing-for-those-living-amid-light-pollution/",
+      "guid": "30c54e6ddf1585bcf1462afcc59a689518b1c644",
+      "publishedAt": "2026-07-27T22:12:41.000Z"
     }
   ]
 }
