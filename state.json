@@ -1,5 +1,5 @@
 {
-  "feedIndex": 1,
+  "feedIndex": 2,
   "history": [
     {
       "date": "2026-07-24",
@@ -45,6 +45,15 @@
       "link": "https://www.goodnewsnetwork.org/unusual-texas-ranch-raises-telescopes-to-provide-remote-dark-sky-viewing-for-those-living-amid-light-pollution/",
       "guid": "30c54e6ddf1585bcf1462afcc59a689518b1c644",
       "publishedAt": "2026-07-27T22:12:41.000Z"
+    },
+    {
+      "date": "2026-07-29",
+      "feedId": "positive-news",
+      "feedName": "Positive News",
+      "title": "Leopards recover in Zambia as communities swap skins for synthetics",
+      "link": "https://www.positive.news/environment/leopards-recover-in-zambia-as-communities-swap-skins-for-synthetics/",
+      "guid": "622104a1a6dda0fd85d2696c20144c13f02d3f36",
+      "publishedAt": "2026-07-27T11:53:11.000Z"
     }
   ]
 }

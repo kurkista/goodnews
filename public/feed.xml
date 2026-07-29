@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Mon, 27 Jul 2026 22:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 11:53:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leopards recover in Zambia as communities swap skins for synthetics]]></title>
+            <link>https://www.positive.news/environment/leopards-recover-in-zambia-as-communities-swap-skins-for-synthetics/</link>
+            <guid>622104a1a6dda0fd85d2696c20144c13f02d3f36</guid>
+            <pubDate>Mon, 27 Jul 2026 11:53:11 GMT</pubDate>
+            <description><![CDATA[Positive News — read the full story at the original source.]]></description>
+            <category>Positive News</category>
+        </item>
         <item>
             <title><![CDATA[Odd Texas Ranch ‘Raises’ Telescopes to Provide Dark Sky Viewing for Stargazers in Cities Remotely]]></title>
             <link>https://www.goodnewsnetwork.org/unusual-texas-ranch-raises-telescopes-to-provide-remote-dark-sky-viewing-for-those-living-amid-light-pollution/</link>
