@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -54,6 +54,15 @@
       "link": "https://www.positive.news/environment/leopards-recover-in-zambia-as-communities-swap-skins-for-synthetics/",
       "guid": "622104a1a6dda0fd85d2696c20144c13f02d3f36",
       "publishedAt": "2026-07-27T11:53:11.000Z"
+    },
+    {
+      "date": "2026-07-30",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "What We’re Reading: Helping Older Americans ‘Age in Community’",
+      "link": "https://reasonstobecheerful.world/what-were-reading-aging-in-community/",
+      "guid": "0ec5f22ab1212e429c2a9358330caf713a86c5b2",
+      "publishedAt": "2026-07-29T08:00:29.000Z"
     }
   ]
 }

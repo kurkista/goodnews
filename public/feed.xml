@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Mon, 27 Jul 2026 11:53:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 08:00:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What We’re Reading: Helping Older Americans ‘Age in Community’]]></title>
+            <link>https://reasonstobecheerful.world/what-were-reading-aging-in-community/</link>
+            <guid>0ec5f22ab1212e429c2a9358330caf713a86c5b2</guid>
+            <pubDate>Wed, 29 Jul 2026 08:00:29 GMT</pubDate>
+            <description><![CDATA[Reasons to be Cheerful — read the full story at the original source.]]></description>
+            <category>Reasons to be Cheerful</category>
+        </item>
         <item>
             <title><![CDATA[Leopards recover in Zambia as communities swap skins for synthetics]]></title>
             <link>https://www.positive.news/environment/leopards-recover-in-zambia-as-communities-swap-skins-for-synthetics/</link>
