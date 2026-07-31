@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -63,6 +63,15 @@
       "link": "https://reasonstobecheerful.world/what-were-reading-aging-in-community/",
       "guid": "0ec5f22ab1212e429c2a9358330caf713a86c5b2",
       "publishedAt": "2026-07-29T08:00:29.000Z"
+    },
+    {
+      "date": "2026-07-31",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "What India’s hydrogen train launch means for its vast railway network",
+      "link": "https://www.optimistdaily.com/2026/07/what-indias-hydrogen-train-launch-means-for-its-vast-railway-network/",
+      "guid": "53a0c6df3292bdab255ed1232709d440280221b9",
+      "publishedAt": "2026-07-30T00:00:10.000Z"
     }
   ]
 }

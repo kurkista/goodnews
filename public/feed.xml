@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Wed, 29 Jul 2026 08:00:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 00:00:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What India’s hydrogen train launch means for its vast railway network]]></title>
+            <link>https://www.optimistdaily.com/2026/07/what-indias-hydrogen-train-launch-means-for-its-vast-railway-network/</link>
+            <guid>53a0c6df3292bdab255ed1232709d440280221b9</guid>
+            <pubDate>Thu, 30 Jul 2026 00:00:10 GMT</pubDate>
+            <description><![CDATA[The Optimist Daily — read the full story at the original source.]]></description>
+            <category>The Optimist Daily</category>
+        </item>
         <item>
             <title><![CDATA[What We’re Reading: Helping Older Americans ‘Age in Community’]]></title>
             <link>https://reasonstobecheerful.world/what-were-reading-aging-in-community/</link>
