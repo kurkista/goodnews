@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Thu, 30 Jul 2026 00:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 18:30:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Organizations Rally to Reunite Lost Pets with Owners Following Earthquake in Japan]]></title>
+            <link>https://www.goodnewsnetwork.org/organizations-rally-to-reunite-lost-pets-with-their-owners-following-earthquake-in-japan/</link>
+            <guid>96c800f3b417d62ce20b83a48ada81e398dd9078</guid>
+            <pubDate>Fri, 31 Jul 2026 18:30:05 GMT</pubDate>
+            <description><![CDATA[Good News Network — read the full story at the original source.]]></description>
+            <category>Good News Network</category>
+        </item>
         <item>
             <title><![CDATA[What India’s hydrogen train launch means for its vast railway network]]></title>
             <link>https://www.optimistdaily.com/2026/07/what-indias-hydrogen-train-launch-means-for-its-vast-railway-network/</link>

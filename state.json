@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -72,6 +72,15 @@
       "link": "https://www.optimistdaily.com/2026/07/what-indias-hydrogen-train-launch-means-for-its-vast-railway-network/",
       "guid": "53a0c6df3292bdab255ed1232709d440280221b9",
       "publishedAt": "2026-07-30T00:00:10.000Z"
+    },
+    {
+      "date": "2026-08-01",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Organizations Rally to Reunite Lost Pets with Owners Following Earthquake in Japan",
+      "link": "https://www.goodnewsnetwork.org/organizations-rally-to-reunite-lost-pets-with-their-owners-following-earthquake-in-japan/",
+      "guid": "96c800f3b417d62ce20b83a48ada81e398dd9078",
+      "publishedAt": "2026-07-31T18:30:05.000Z"
     }
   ]
 }
