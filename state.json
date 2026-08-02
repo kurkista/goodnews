@@ -1,5 +1,5 @@
 {
-  "feedIndex": 1,
+  "feedIndex": 2,
   "history": [
     {
       "date": "2026-07-24",
@@ -81,6 +81,15 @@
       "link": "https://www.goodnewsnetwork.org/organizations-rally-to-reunite-lost-pets-with-their-owners-following-earthquake-in-japan/",
       "guid": "96c800f3b417d62ce20b83a48ada81e398dd9078",
       "publishedAt": "2026-07-31T18:30:05.000Z"
+    },
+    {
+      "date": "2026-08-02",
+      "feedId": "positive-news",
+      "feedName": "Positive News",
+      "title": "How community football is helping youth stay out of trouble",
+      "link": "https://www.positive.news/society/how-community-football-is-helping-youth-stay-out-of-trouble/",
+      "guid": "a4c349d125ff9ced1cc0c5d6979626b5fcc61ae1",
+      "publishedAt": "2026-07-31T08:48:48.000Z"
     }
   ]
 }
