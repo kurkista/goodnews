@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -90,6 +90,15 @@
       "link": "https://www.positive.news/society/how-community-football-is-helping-youth-stay-out-of-trouble/",
       "guid": "a4c349d125ff9ced1cc0c5d6979626b5fcc61ae1",
       "publishedAt": "2026-07-31T08:48:48.000Z"
+    },
+    {
+      "date": "2026-08-03",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "‘They Take Your Brokenness and Put It Together’",
+      "link": "https://reasonstobecheerful.world/they-take-your-brokenness-and-put-it-together/",
+      "guid": "9169affd85dae2371ca3d9bb90a68cf7f41356dd",
+      "publishedAt": "2026-07-31T08:00:15.000Z"
     }
   ]
 }
