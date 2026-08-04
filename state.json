@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -99,6 +99,15 @@
       "link": "https://reasonstobecheerful.world/they-take-your-brokenness-and-put-it-together/",
       "guid": "9169affd85dae2371ca3d9bb90a68cf7f41356dd",
       "publishedAt": "2026-07-31T08:00:15.000Z"
+    },
+    {
+      "date": "2026-08-04",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "The Great Bubble Barrier: bubble curtains are intercepting 86 percent of river plastic",
+      "link": "https://www.optimistdaily.com/2026/08/the-great-bubble-barrier-bubble-curtains-are-intercepting-86-percent-of-river-plastic/",
+      "guid": "3774f32d9005e7fa8205548a9d90a005045fd74a",
+      "publishedAt": "2026-08-04T00:00:48.000Z"
     }
   ]
 }
