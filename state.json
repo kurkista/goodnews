@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -108,6 +108,15 @@
       "link": "https://www.optimistdaily.com/2026/08/the-great-bubble-barrier-bubble-curtains-are-intercepting-86-percent-of-river-plastic/",
       "guid": "3774f32d9005e7fa8205548a9d90a005045fd74a",
       "publishedAt": "2026-08-04T00:00:48.000Z"
+    },
+    {
+      "date": "2026-08-05",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Self-Healing Contact Lenses Repair Scratches with Just 1 Hour of UV Light Exposure",
+      "link": "https://www.goodnewsnetwork.org/self-healing-contact-lenses-repair-scratches-with-just-1-hour-of-uv-light-exposure/",
+      "guid": "8dbd43b9f8ac8e3e8b8fe86b1fa569fac1b96805",
+      "publishedAt": "2026-08-04T18:30:08.000Z"
     }
   ]
 }
