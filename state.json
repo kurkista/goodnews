@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -126,6 +126,15 @@
       "link": "https://www.positive.news/society/how-schools-are-winning-children-over-to-healthier-lunches/",
       "guid": "ae486c17652543a35e95a523a87253f127cdd124",
       "publishedAt": "2026-08-05T07:00:53.000Z"
+    },
+    {
+      "date": "2026-08-07",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "The ‘Transplant Games’ Are About More Than Medals",
+      "link": "https://reasonstobecheerful.world/the-transplant-games-are-about-more-than-medals/",
+      "guid": "446a1c06f846c39a26d2349cf1acd9176c652ed2",
+      "publishedAt": "2026-08-06T08:00:46.000Z"
     }
   ]
 }
