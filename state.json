@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -135,6 +135,15 @@
       "link": "https://reasonstobecheerful.world/the-transplant-games-are-about-more-than-medals/",
       "guid": "446a1c06f846c39a26d2349cf1acd9176c652ed2",
       "publishedAt": "2026-08-06T08:00:46.000Z"
+    },
+    {
+      "date": "2026-08-08",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "Learning a new skill triggers both temporary cell swelling and lasting brain growth",
+      "link": "https://www.optimistdaily.com/2026/08/learning-a-new-skill-triggers-both-temporary-cell-swelling-and-lasting-brain-growth/",
+      "guid": "95b69b53cf16da053fa626702165c250d7b1fc2c",
+      "publishedAt": "2026-08-07T00:00:30.000Z"
     }
   ]
 }
