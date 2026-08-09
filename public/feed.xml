@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Fri, 07 Aug 2026 00:00:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 00:49:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Once Gone From Ireland, Majestic Sea Eagles Continue Their Comeback with Rare New Chick]]></title>
+            <link>https://www.goodnewsnetwork.org/once-gone-from-ireland-majestic-sea-eagles-continue-comeback/</link>
+            <guid>e9e8a5e8d20fb0824f1e3747bc1382ce540a9fce</guid>
+            <pubDate>Sun, 09 Aug 2026 00:49:16 GMT</pubDate>
+            <description><![CDATA[Good News Network — read the full story at the original source.]]></description>
+            <category>Good News Network</category>
+        </item>
         <item>
             <title><![CDATA[Learning a new skill triggers both temporary cell swelling and lasting brain growth]]></title>
             <link>https://www.optimistdaily.com/2026/08/learning-a-new-skill-triggers-both-temporary-cell-swelling-and-lasting-brain-growth/</link>
