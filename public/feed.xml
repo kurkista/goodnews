@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Sun, 09 Aug 2026 00:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 05:32:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What went right this week: the good news that matters]]></title>
+            <link>https://www.positive.news/society/good-news-stories-from-week-32-of-2026/</link>
+            <guid>bb3d4e3d28a37775a4a563fc9e6ca958c323f233</guid>
+            <pubDate>Fri, 07 Aug 2026 05:32:11 GMT</pubDate>
+            <description><![CDATA[Positive News — read the full story at the original source.]]></description>
+            <category>Positive News</category>
+        </item>
         <item>
             <title><![CDATA[Once Gone From Ireland, Majestic Sea Eagles Continue Their Comeback with Rare New Chick]]></title>
             <link>https://www.goodnewsnetwork.org/once-gone-from-ireland-majestic-sea-eagles-continue-comeback/</link>
