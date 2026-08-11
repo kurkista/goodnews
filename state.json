@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -162,6 +162,15 @@
       "link": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/",
       "guid": "bb3d4e3d28a37775a4a563fc9e6ca958c323f233",
       "publishedAt": "2026-08-07T05:32:11.000Z"
+    },
+    {
+      "date": "2026-08-11",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "Can This City Banish Single-Use Coffee Cups?",
+      "link": "https://reasonstobecheerful.world/can-this-city-banish-single-use-coffee-cups/",
+      "guid": "0320433e5455c4878161d6dfafd4ec7cf0e8c71d",
+      "publishedAt": "2026-08-10T08:00:38.000Z"
     }
   ]
 }
