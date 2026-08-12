@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -171,6 +171,15 @@
       "link": "https://reasonstobecheerful.world/can-this-city-banish-single-use-coffee-cups/",
       "guid": "0320433e5455c4878161d6dfafd4ec7cf0e8c71d",
       "publishedAt": "2026-08-10T08:00:38.000Z"
+    },
+    {
+      "date": "2026-08-12",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "What forest bathing does to your body, and the 5 best places to try it",
+      "link": "https://www.optimistdaily.com/2026/08/what-forest-bathing-does-to-your-body-and-the-5-best-places-to-try-it/",
+      "guid": "88930d272b08272902b2d33d2ea7e732c139ad53",
+      "publishedAt": "2026-08-11T00:00:54.000Z"
     }
   ]
 }
