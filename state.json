@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -180,6 +180,15 @@
       "link": "https://www.optimistdaily.com/2026/08/what-forest-bathing-does-to-your-body-and-the-5-best-places-to-try-it/",
       "guid": "88930d272b08272902b2d33d2ea7e732c139ad53",
       "publishedAt": "2026-08-11T00:00:54.000Z"
+    },
+    {
+      "date": "2026-08-13",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Antiviral Chewing Gum Cuts Risk of Certain Head and Neck Cancers to Almost Zero in New Study",
+      "link": "https://www.goodnewsnetwork.org/chewing-gum-cuts-risk-of-certain-head-neck-cancers-to-near-zero/",
+      "guid": "09ec2a8f2518d07ded468cd500c3b74768c37407",
+      "publishedAt": "2026-08-12T22:51:33.000Z"
     }
   ]
 }
