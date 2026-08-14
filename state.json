@@ -1,5 +1,5 @@
 {
-  "feedIndex": 1,
+  "feedIndex": 2,
   "history": [
     {
       "date": "2026-07-24",
@@ -189,6 +189,15 @@
       "link": "https://www.goodnewsnetwork.org/chewing-gum-cuts-risk-of-certain-head-neck-cancers-to-near-zero/",
       "guid": "09ec2a8f2518d07ded468cd500c3b74768c37407",
       "publishedAt": "2026-08-12T22:51:33.000Z"
+    },
+    {
+      "date": "2026-08-14",
+      "feedId": "positive-news",
+      "feedName": "Positive News",
+      "title": "What went right this week: the good news that matters",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/",
+      "guid": "b7741b2d2ea1b5bacad23b67ac46cde22720e9df",
+      "publishedAt": "2026-08-14T05:00:08.000Z"
     }
   ]
 }
