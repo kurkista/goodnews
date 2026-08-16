@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -207,6 +207,15 @@
       "link": "https://reasonstobecheerful.world/american-dads-parental-leave/",
       "guid": "e93776b3f52bf334edaef23be4704d3752e65e8a",
       "publishedAt": "2026-08-14T08:00:14.000Z"
+    },
+    {
+      "date": "2026-08-16",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "Podcast Transcript August 14th, 2026— Taking our own advice on slowing down this summer",
+      "link": "https://www.optimistdaily.com/2026/08/podcast-transcript-august-14th-2026-taking-our-own-advice-on-slowing-down-this-summer/",
+      "guid": "a82974886ec83c61bf55aa742eb50815b49be080",
+      "publishedAt": "2026-08-14T10:30:15.000Z"
     }
   ]
 }
