@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Fri, 14 Aug 2026 10:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 22:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Boyfriend Secretly Trains For Two Months To Surprise Girlfriend and Run Alongside Her in Dreaded First Half-Marathon]]></title>
+            <link>https://www.goodnewsnetwork.org/boyfriend-secretly-trains-for-two-months-to-surprise-girlfriend-and-run-alongside-her-in-dreaded-first-half-marathon/</link>
+            <guid>be0097f2c4fa2d673334eed3b9ecb9103ee45125</guid>
+            <pubDate>Sun, 16 Aug 2026 22:24:51 GMT</pubDate>
+            <description><![CDATA[Good News Network — read the full story at the original source.]]></description>
+            <category>Good News Network</category>
+        </item>
         <item>
             <title><![CDATA[Podcast Transcript August 14th, 2026— Taking our own advice on slowing down this summer]]></title>
             <link>https://www.optimistdaily.com/2026/08/podcast-transcript-august-14th-2026-taking-our-own-advice-on-slowing-down-this-summer/</link>

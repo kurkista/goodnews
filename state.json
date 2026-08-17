@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -216,6 +216,15 @@
       "link": "https://www.optimistdaily.com/2026/08/podcast-transcript-august-14th-2026-taking-our-own-advice-on-slowing-down-this-summer/",
       "guid": "a82974886ec83c61bf55aa742eb50815b49be080",
       "publishedAt": "2026-08-14T10:30:15.000Z"
+    },
+    {
+      "date": "2026-08-17",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Boyfriend Secretly Trains For Two Months To Surprise Girlfriend and Run Alongside Her in Dreaded First Half-Marathon",
+      "link": "https://www.goodnewsnetwork.org/boyfriend-secretly-trains-for-two-months-to-surprise-girlfriend-and-run-alongside-her-in-dreaded-first-half-marathon/",
+      "guid": "be0097f2c4fa2d673334eed3b9ecb9103ee45125",
+      "publishedAt": "2026-08-16T22:24:51.000Z"
     }
   ]
 }
