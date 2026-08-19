@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -234,6 +234,15 @@
       "link": "https://www.positive.news/environment/black-tomatoes-and-white-aubergines-the-future-of-farming-is-quantum/",
       "guid": "2329d7cdec9dec99f9faceb45a5ec73c616781d0",
       "publishedAt": "2026-08-17T07:00:50.000Z"
+    },
+    {
+      "date": "2026-08-19",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "The ‘Sisterhood’ Protecting Indonesia’s Coral Reefs",
+      "link": "https://reasonstobecheerful.world/saving-indonesias-coral-reefs-by-empowering-women/",
+      "guid": "46eb386f7d41251d43ce22fbaecb778b1feea76e",
+      "publishedAt": "2026-08-18T14:31:25.000Z"
     }
   ]
 }
