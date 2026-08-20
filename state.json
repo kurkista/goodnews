@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -243,6 +243,15 @@
       "link": "https://reasonstobecheerful.world/saving-indonesias-coral-reefs-by-empowering-women/",
       "guid": "46eb386f7d41251d43ce22fbaecb778b1feea76e",
       "publishedAt": "2026-08-18T14:31:25.000Z"
+    },
+    {
+      "date": "2026-08-20",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "Australia’s biggest gun reform in 30 years kicks off this November",
+      "link": "https://www.optimistdaily.com/2026/08/australias-biggest-gun-reform-in-30-years-kicks-off-this-november/",
+      "guid": "5843b12b3310597a0e7eb9a31351a09d818dcc72",
+      "publishedAt": "2026-08-20T00:00:46.000Z"
     }
   ]
 }

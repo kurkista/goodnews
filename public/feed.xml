@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 14:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 00:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australia’s biggest gun reform in 30 years kicks off this November]]></title>
+            <link>https://www.optimistdaily.com/2026/08/australias-biggest-gun-reform-in-30-years-kicks-off-this-november/</link>
+            <guid>5843b12b3310597a0e7eb9a31351a09d818dcc72</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:46 GMT</pubDate>
+            <description><![CDATA[The Optimist Daily — read the full story at the original source.]]></description>
+            <category>The Optimist Daily</category>
+        </item>
         <item>
             <title><![CDATA[The ‘Sisterhood’ Protecting Indonesia’s Coral Reefs]]></title>
             <link>https://reasonstobecheerful.world/saving-indonesias-coral-reefs-by-empowering-women/</link>
