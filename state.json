@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -252,6 +252,15 @@
       "link": "https://www.optimistdaily.com/2026/08/australias-biggest-gun-reform-in-30-years-kicks-off-this-november/",
       "guid": "5843b12b3310597a0e7eb9a31351a09d818dcc72",
       "publishedAt": "2026-08-20T00:00:46.000Z"
+    },
+    {
+      "date": "2026-08-21",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Experimental Drug Generates Immune Response Against Pancreatic Cancer in People at High Risk",
+      "link": "https://www.goodnewsnetwork.org/experimental-drug-generates-immune-response-against-pancreatic-cancer-in-people-at-high-risk/",
+      "guid": "928e6cddda36de86a4ec112540bc52342e467673",
+      "publishedAt": "2026-08-20T18:30:16.000Z"
     }
   ]
 }

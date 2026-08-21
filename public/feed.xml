@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Thu, 20 Aug 2026 00:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 18:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Experimental Drug Generates Immune Response Against Pancreatic Cancer in People at High Risk]]></title>
+            <link>https://www.goodnewsnetwork.org/experimental-drug-generates-immune-response-against-pancreatic-cancer-in-people-at-high-risk/</link>
+            <guid>928e6cddda36de86a4ec112540bc52342e467673</guid>
+            <pubDate>Thu, 20 Aug 2026 18:30:16 GMT</pubDate>
+            <description><![CDATA[Good News Network — read the full story at the original source.]]></description>
+            <category>Good News Network</category>
+        </item>
         <item>
             <title><![CDATA[Australia’s biggest gun reform in 30 years kicks off this November]]></title>
             <link>https://www.optimistdaily.com/2026/08/australias-biggest-gun-reform-in-30-years-kicks-off-this-november/</link>
