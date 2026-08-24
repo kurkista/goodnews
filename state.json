@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -279,6 +279,15 @@
       "link": "https://reasonstobecheerful.world/mine-water-heat-gateshead/",
       "guid": "4611588e74ac955a38999863add51bd0c8c5c2a4",
       "publishedAt": "2026-08-21T08:00:31.000Z"
+    },
+    {
+      "date": "2026-08-24",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "Podcast Transcript August 21st, 2026— (Guest Interview) Catch up with Kristy: clean energy, leaving California, and embracing the slow life",
+      "link": "https://www.optimistdaily.com/2026/08/podcast-transcript-august-21st-2026-guest-interview-catch-up-with-kristy-clean-energy-leaving-california-and-embracing-the-slow-life/",
+      "guid": "96c8a31248ee22a00601c87d77470aa0f3085879",
+      "publishedAt": "2026-08-21T10:30:00.000Z"
     }
   ]
 }

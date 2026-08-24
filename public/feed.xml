@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Fri, 21 Aug 2026 08:00:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 10:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Podcast Transcript August 21st, 2026— (Guest Interview) Catch up with Kristy: clean energy, leaving California, and embracing the slow life]]></title>
+            <link>https://www.optimistdaily.com/2026/08/podcast-transcript-august-21st-2026-guest-interview-catch-up-with-kristy-clean-energy-leaving-california-and-embracing-the-slow-life/</link>
+            <guid>96c8a31248ee22a00601c87d77470aa0f3085879</guid>
+            <pubDate>Fri, 21 Aug 2026 10:30:00 GMT</pubDate>
+            <description><![CDATA[The Optimist Daily — read the full story at the original source.]]></description>
+            <category>The Optimist Daily</category>
+        </item>
         <item>
             <title><![CDATA[Transforming Britain’s Old Coalfields Into Clean Energy Sources]]></title>
             <link>https://reasonstobecheerful.world/mine-water-heat-gateshead/</link>
