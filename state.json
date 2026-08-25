@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -288,6 +288,15 @@
       "link": "https://www.optimistdaily.com/2026/08/podcast-transcript-august-21st-2026-guest-interview-catch-up-with-kristy-clean-energy-leaving-california-and-embracing-the-slow-life/",
       "guid": "96c8a31248ee22a00601c87d77470aa0f3085879",
       "publishedAt": "2026-08-21T10:30:00.000Z"
+    },
+    {
+      "date": "2026-08-25",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Moms Love This Initiation Ritual Freshmen Must Go Through at This Oklahoma High School",
+      "link": "https://www.goodnewsnetwork.org/heres-the-humiliating-initiation-ritual-freshmen-must-go-through-at-this-oklahoma-high-school/",
+      "guid": "94c4b903d548ac862ce0bf090ab11b98a37e9ca1",
+      "publishedAt": "2026-08-24T19:30:33.000Z"
     }
   ]
 }
