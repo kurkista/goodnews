@@ -1,5 +1,5 @@
 {
-  "feedIndex": 1,
+  "feedIndex": 2,
   "history": [
     {
       "date": "2026-07-24",
@@ -297,6 +297,15 @@
       "link": "https://www.goodnewsnetwork.org/heres-the-humiliating-initiation-ritual-freshmen-must-go-through-at-this-oklahoma-high-school/",
       "guid": "94c4b903d548ac862ce0bf090ab11b98a37e9ca1",
       "publishedAt": "2026-08-24T19:30:33.000Z"
+    },
+    {
+      "date": "2026-08-26",
+      "feedId": "positive-news",
+      "feedName": "Positive News",
+      "title": "Art attack: five habits to help you get (back) into art",
+      "link": "https://www.positive.news/lifestyle/art-attack-five-habits-to-help-you-get-back-into-art/",
+      "guid": "03fc003c4aedf3d694eea25ec68d795765bacdd5",
+      "publishedAt": "2026-08-25T07:00:20.000Z"
     }
   ]
 }
