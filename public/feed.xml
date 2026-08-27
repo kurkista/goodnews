@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 07:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 08:00:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Want to See a Tiger? Let These Women Be Your Guides]]></title>
+            <link>https://reasonstobecheerful.world/want-to-see-a-tiger-let-these-women-be-your-guides/</link>
+            <guid>d9792e152e8bd309023e55f738e7943e554d2b73</guid>
+            <pubDate>Thu, 27 Aug 2026 08:00:11 GMT</pubDate>
+            <description><![CDATA[Reasons to be Cheerful — read the full story at the original source.]]></description>
+            <category>Reasons to be Cheerful</category>
+        </item>
         <item>
             <title><![CDATA[Art attack: five habits to help you get (back) into art]]></title>
             <link>https://www.positive.news/lifestyle/art-attack-five-habits-to-help-you-get-back-into-art/</link>

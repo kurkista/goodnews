@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -306,6 +306,15 @@
       "link": "https://www.positive.news/lifestyle/art-attack-five-habits-to-help-you-get-back-into-art/",
       "guid": "03fc003c4aedf3d694eea25ec68d795765bacdd5",
       "publishedAt": "2026-08-25T07:00:20.000Z"
+    },
+    {
+      "date": "2026-08-27",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "Want to See a Tiger? Let These Women Be Your Guides",
+      "link": "https://reasonstobecheerful.world/want-to-see-a-tiger-let-these-women-be-your-guides/",
+      "guid": "d9792e152e8bd309023e55f738e7943e554d2b73",
+      "publishedAt": "2026-08-27T08:00:11.000Z"
     }
   ]
 }
