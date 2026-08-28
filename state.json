@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -315,6 +315,15 @@
       "link": "https://reasonstobecheerful.world/want-to-see-a-tiger-let-these-women-be-your-guides/",
       "guid": "d9792e152e8bd309023e55f738e7943e554d2b73",
       "publishedAt": "2026-08-27T08:00:11.000Z"
+    },
+    {
+      "date": "2026-08-28",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "6 useful things to donate before back-to-school season this year",
+      "link": "https://www.optimistdaily.com/2026/08/6-useful-things-to-donate-before-back-to-school-season-this-year/",
+      "guid": "793ad9bf25734a872494b07c0d2ae0bb0c397285",
+      "publishedAt": "2026-08-28T00:00:24.000Z"
     }
   ]
 }
