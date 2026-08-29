@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -324,6 +324,15 @@
       "link": "https://www.optimistdaily.com/2026/08/6-useful-things-to-donate-before-back-to-school-season-this-year/",
       "guid": "793ad9bf25734a872494b07c0d2ae0bb0c397285",
       "publishedAt": "2026-08-28T00:00:24.000Z"
+    },
+    {
+      "date": "2026-08-29",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-8-29-2026/",
+      "guid": "206d8e4e6d62c8925058d801368729534abff29b",
+      "publishedAt": "2026-08-29T10:00:15.000Z"
     }
   ]
 }
