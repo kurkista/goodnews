@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Sat, 29 Aug 2026 10:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 05:56:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What went right this week: the good news that matters]]></title>
+            <link>https://www.positive.news/society/good-news-stories-from-week-35-of-2026/</link>
+            <guid>2fcf642d179ac7f6052c87f222e92b7b3303c7ba</guid>
+            <pubDate>Fri, 28 Aug 2026 05:56:35 GMT</pubDate>
+            <description><![CDATA[Positive News — read the full story at the original source.]]></description>
+            <category>Positive News</category>
+        </item>
         <item>
             <title><![CDATA[Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny]]></title>
             <link>https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-8-29-2026/</link>
