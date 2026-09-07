@@ -1,5 +1,5 @@
 {
-  "feedIndex": 1,
+  "feedIndex": 2,
   "history": [
     {
       "date": "2026-07-24",
@@ -405,6 +405,15 @@
       "link": "https://www.goodnewsnetwork.org/events060906/",
       "guid": "737893815b4bf74c93a736595fcba4ea403ee6ba",
       "publishedAt": "2026-09-06T07:00:00.000Z"
+    },
+    {
+      "date": "2026-09-07",
+      "feedId": "positive-news",
+      "feedName": "Positive News",
+      "title": "What went right this week: the good news that matters",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-36-of-2026/",
+      "guid": "383e15b40037a4ef0dfabe6d7156e5a0b79d8cbd",
+      "publishedAt": "2026-09-04T05:09:49.000Z"
     }
   ]
 }
