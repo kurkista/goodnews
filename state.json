@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -414,6 +414,15 @@
       "link": "https://www.positive.news/society/good-news-stories-from-week-36-of-2026/",
       "guid": "383e15b40037a4ef0dfabe6d7156e5a0b79d8cbd",
       "publishedAt": "2026-09-04T05:09:49.000Z"
+    },
+    {
+      "date": "2026-09-08",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "Beavers Are Having a Moment",
+      "link": "https://reasonstobecheerful.world/beavers-big-moment/",
+      "guid": "c2cf9a20bc31b839381babc37e8b5302235b7d9e",
+      "publishedAt": "2026-09-07T08:00:15.000Z"
     }
   ]
 }
