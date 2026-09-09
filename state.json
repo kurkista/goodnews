@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -423,6 +423,15 @@
       "link": "https://reasonstobecheerful.world/beavers-big-moment/",
       "guid": "c2cf9a20bc31b839381babc37e8b5302235b7d9e",
       "publishedAt": "2026-09-07T08:00:15.000Z"
+    },
+    {
+      "date": "2026-09-09",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "The neuroscience of motivation: what orexin neurons reveal about staying the course",
+      "link": "https://www.optimistdaily.com/2026/09/the-neuroscience-of-motivation-what-orexin-neurons-reveal-about-staying-the-course/",
+      "guid": "0859dacb668e4b1564db219279d118b58418d61e",
+      "publishedAt": "2026-09-08T00:00:34.000Z"
     }
   ]
 }
