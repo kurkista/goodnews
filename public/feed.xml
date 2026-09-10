@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Tue, 08 Sep 2026 00:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 07:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good News in History, September 10]]></title>
+            <link>https://www.goodnewsnetwork.org/events060910/</link>
+            <guid>08de009445cd74ffb7579dd2034e26790327bbd8</guid>
+            <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Good News Network — read the full story at the original source.]]></description>
+            <category>Good News Network</category>
+        </item>
         <item>
             <title><![CDATA[The neuroscience of motivation: what orexin neurons reveal about staying the course]]></title>
             <link>https://www.optimistdaily.com/2026/09/the-neuroscience-of-motivation-what-orexin-neurons-reveal-about-staying-the-course/</link>
