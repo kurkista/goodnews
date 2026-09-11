@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Thu, 10 Sep 2026 07:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 05:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What went right this week: the good news that matters]]></title>
+            <link>https://www.positive.news/society/good-news-stories-from-week-37-of-2026/</link>
+            <guid>29d42612348b82301fe7a22b66a0bb2aef77b422</guid>
+            <pubDate>Fri, 11 Sep 2026 05:50:39 GMT</pubDate>
+            <description><![CDATA[Positive News — read the full story at the original source.]]></description>
+            <category>Positive News</category>
+        </item>
         <item>
             <title><![CDATA[Good News in History, September 10]]></title>
             <link>https://www.goodnewsnetwork.org/events060910/</link>
