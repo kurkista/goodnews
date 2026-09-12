@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -450,6 +450,15 @@
       "link": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
       "guid": "29d42612348b82301fe7a22b66a0bb2aef77b422",
       "publishedAt": "2026-09-11T05:50:39.000Z"
+    },
+    {
+      "date": "2026-09-12",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "‘We Held Each Other Up’",
+      "link": "https://reasonstobecheerful.world/we-held-each-other-up/",
+      "guid": "81c4a786f73c4e5123af4083b7a8488867e457ed",
+      "publishedAt": "2026-09-11T08:00:33.000Z"
     }
   ]
 }
