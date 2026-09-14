@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -459,6 +459,15 @@
       "link": "https://reasonstobecheerful.world/we-held-each-other-up/",
       "guid": "81c4a786f73c4e5123af4083b7a8488867e457ed",
       "publishedAt": "2026-09-11T08:00:33.000Z"
+    },
+    {
+      "date": "2026-09-14",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "The gardening window most people miss: late summer and early fall weed control",
+      "link": "https://www.optimistdaily.com/2026/09/the-gardening-window-most-people-miss-late-summer-and-early-fall-weed-control/",
+      "guid": "ba57703001ca70e6abd836ff94b25e60334f384f",
+      "publishedAt": "2026-09-14T00:00:51.000Z"
     }
   ]
 }
