@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 0,
   "history": [
     {
       "date": "2026-07-24",
@@ -468,6 +468,15 @@
       "link": "https://www.optimistdaily.com/2026/09/the-gardening-window-most-people-miss-late-summer-and-early-fall-weed-control/",
       "guid": "ba57703001ca70e6abd836ff94b25e60334f384f",
       "publishedAt": "2026-09-14T00:00:51.000Z"
+    },
+    {
+      "date": "2026-09-15",
+      "feedId": "yes-magazine",
+      "feedName": "YES! Magazine",
+      "title": "Bringing Our Kids Back to Just Schools",
+      "link": "https://www.yesmagazine.org/issues/2026/09/09/bringing-our-kids-back-to-just-schools",
+      "guid": "22922826e76edc44f64c3ff0890019eb1452abd9",
+      "publishedAt": "2026-09-09T21:21:52.000Z"
     }
   ]
 }

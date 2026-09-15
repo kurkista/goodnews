@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Mon, 14 Sep 2026 00:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 21:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bringing Our Kids Back to Just Schools]]></title>
+            <link>https://www.yesmagazine.org/issues/2026/09/09/bringing-our-kids-back-to-just-schools</link>
+            <guid>22922826e76edc44f64c3ff0890019eb1452abd9</guid>
+            <pubDate>Wed, 09 Sep 2026 21:21:52 GMT</pubDate>
+            <description><![CDATA[YES! Magazine — read the full story at the original source.]]></description>
+            <category>YES! Magazine</category>
+        </item>
         <item>
             <title><![CDATA[The gardening window most people miss: late summer and early fall weed control]]></title>
             <link>https://www.optimistdaily.com/2026/09/the-gardening-window-most-people-miss-late-summer-and-early-fall-weed-control/</link>
