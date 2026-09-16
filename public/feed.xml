@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Wed, 09 Sep 2026 21:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 07:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good News in History September 16]]></title>
+            <link>https://www.goodnewsnetwork.org/events060916/</link>
+            <guid>30feb2099fe5268662bd47494d26c8b71eefa226</guid>
+            <pubDate>Wed, 16 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Good News Network — read the full story at the original source.]]></description>
+            <category>Good News Network</category>
+        </item>
         <item>
             <title><![CDATA[Bringing Our Kids Back to Just Schools]]></title>
             <link>https://www.yesmagazine.org/issues/2026/09/09/bringing-our-kids-back-to-just-schools</link>
