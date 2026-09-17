@@ -1,5 +1,5 @@
 {
-  "feedIndex": 1,
+  "feedIndex": 2,
   "history": [
     {
       "date": "2026-07-24",
@@ -486,6 +486,15 @@
       "link": "https://www.goodnewsnetwork.org/events060916/",
       "guid": "30feb2099fe5268662bd47494d26c8b71eefa226",
       "publishedAt": "2026-09-16T07:00:00.000Z"
+    },
+    {
+      "date": "2026-09-17",
+      "feedId": "positive-news",
+      "feedName": "Positive News",
+      "title": "What happened when I stopped filling the silence",
+      "link": "https://www.positive.news/lifestyle/the-sound-of-stillness-what-happened-when-i-stopped-filling-the-silence/",
+      "guid": "da3ad158dea4fc9346b2017cd80a8fa5f3b773cc",
+      "publishedAt": "2026-09-16T07:00:46.000Z"
     }
   ]
 }

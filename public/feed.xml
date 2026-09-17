@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Wed, 16 Sep 2026 07:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 07:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What happened when I stopped filling the silence]]></title>
+            <link>https://www.positive.news/lifestyle/the-sound-of-stillness-what-happened-when-i-stopped-filling-the-silence/</link>
+            <guid>da3ad158dea4fc9346b2017cd80a8fa5f3b773cc</guid>
+            <pubDate>Wed, 16 Sep 2026 07:00:46 GMT</pubDate>
+            <description><![CDATA[Positive News — read the full story at the original source.]]></description>
+            <category>Positive News</category>
+        </item>
         <item>
             <title><![CDATA[Good News in History September 16]]></title>
             <link>https://www.goodnewsnetwork.org/events060916/</link>
