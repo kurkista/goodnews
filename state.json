@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -495,6 +495,15 @@
       "link": "https://www.positive.news/lifestyle/the-sound-of-stillness-what-happened-when-i-stopped-filling-the-silence/",
       "guid": "da3ad158dea4fc9346b2017cd80a8fa5f3b773cc",
       "publishedAt": "2026-09-16T07:00:46.000Z"
+    },
+    {
+      "date": "2026-09-18",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "In Remote Alaska, the Promise and Limits of Vertical Farming",
+      "link": "https://reasonstobecheerful.world/in-remote-alaska-the-promise-and-limits-of-vertical-farming/",
+      "guid": "c941341be36d47951042bdefd31c1f911aea0f65",
+      "publishedAt": "2026-09-18T08:00:09.000Z"
     }
   ]
 }
