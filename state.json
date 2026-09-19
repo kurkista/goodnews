@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -504,6 +504,15 @@
       "link": "https://reasonstobecheerful.world/in-remote-alaska-the-promise-and-limits-of-vertical-farming/",
       "guid": "c941341be36d47951042bdefd31c1f911aea0f65",
       "publishedAt": "2026-09-18T08:00:09.000Z"
+    },
+    {
+      "date": "2026-09-19",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "Podcast Transcript September 18th, 2026— A 450-year map mistake gets corrected by 164 countries, plus nine more solutions",
+      "link": "https://www.optimistdaily.com/2026/09/podcast-transcript-september-18th-2026-a-450-year-map-mistake-gets-corrected-by-164-countries-plus-nine-more-solutions/",
+      "guid": "0058a1102ad38624970acc493c7d36fa28b566c0",
+      "publishedAt": "2026-09-18T16:30:56.000Z"
     }
   ]
 }
