@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Fri, 18 Sep 2026 16:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 21:56:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New York City is Putting ‘The Park’ Back in Park Avenue – And Adding a Protected Bike Lane (LOOK)]]></title>
+            <link>https://www.goodnewsnetwork.org/new-york-city-is-putting-the-park-back-in-park-avenue/</link>
+            <guid>869995e8df915ea90a990f0e2e551cf2a2b1df1b</guid>
+            <pubDate>Sat, 19 Sep 2026 21:56:51 GMT</pubDate>
+            <description><![CDATA[Good News Network — read the full story at the original source.]]></description>
+            <category>Good News Network</category>
+        </item>
         <item>
             <title><![CDATA[Podcast Transcript September 18th, 2026— A 450-year map mistake gets corrected by 164 countries, plus nine more solutions]]></title>
             <link>https://www.optimistdaily.com/2026/09/podcast-transcript-september-18th-2026-a-450-year-map-mistake-gets-corrected-by-164-countries-plus-nine-more-solutions/</link>

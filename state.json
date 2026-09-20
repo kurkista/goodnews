@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -513,6 +513,15 @@
       "link": "https://www.optimistdaily.com/2026/09/podcast-transcript-september-18th-2026-a-450-year-map-mistake-gets-corrected-by-164-countries-plus-nine-more-solutions/",
       "guid": "0058a1102ad38624970acc493c7d36fa28b566c0",
       "publishedAt": "2026-09-18T16:30:56.000Z"
+    },
+    {
+      "date": "2026-09-20",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "New York City is Putting ‘The Park’ Back in Park Avenue – And Adding a Protected Bike Lane (LOOK)",
+      "link": "https://www.goodnewsnetwork.org/new-york-city-is-putting-the-park-back-in-park-avenue/",
+      "guid": "869995e8df915ea90a990f0e2e551cf2a2b1df1b",
+      "publishedAt": "2026-09-19T21:56:51.000Z"
     }
   ]
 }
