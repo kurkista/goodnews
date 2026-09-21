@@ -1,5 +1,5 @@
 {
-  "feedIndex": 1,
+  "feedIndex": 2,
   "history": [
     {
       "date": "2026-07-24",
@@ -522,6 +522,15 @@
       "link": "https://www.goodnewsnetwork.org/new-york-city-is-putting-the-park-back-in-park-avenue/",
       "guid": "869995e8df915ea90a990f0e2e551cf2a2b1df1b",
       "publishedAt": "2026-09-19T21:56:51.000Z"
+    },
+    {
+      "date": "2026-09-21",
+      "feedId": "positive-news",
+      "feedName": "Positive News",
+      "title": "What went right this week: the good news that matters",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/",
+      "guid": "0c192ae7a85378e587ac3643ff2af73de608a3fe",
+      "publishedAt": "2026-09-18T05:28:35.000Z"
     }
   ]
 }
