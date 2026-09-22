@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -531,6 +531,15 @@
       "link": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/",
       "guid": "0c192ae7a85378e587ac3643ff2af73de608a3fe",
       "publishedAt": "2026-09-18T05:28:35.000Z"
+    },
+    {
+      "date": "2026-09-22",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "Why Great Plains Ranchers Are Setting Fire to Their Own Land",
+      "link": "https://reasonstobecheerful.world/great-plains-ranchers-prescribed-burns/",
+      "guid": "5e0cacd018d178f3c2acbe25fb42d3dd85e671ce",
+      "publishedAt": "2026-09-21T14:42:43.000Z"
     }
   ]
 }
