@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Mon, 21 Sep 2026 14:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 00:00:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[From fire starters to compost: what to do with dryer lint]]></title>
+            <link>https://www.optimistdaily.com/2026/09/from-fire-starters-to-compost-what-to-do-with-dryer-lint/</link>
+            <guid>6c471597ab97fd768bf1983e9e508d04de75eaf6</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:34 GMT</pubDate>
+            <description><![CDATA[The Optimist Daily — read the full story at the original source.]]></description>
+            <category>The Optimist Daily</category>
+        </item>
         <item>
             <title><![CDATA[Why Great Plains Ranchers Are Setting Fire to Their Own Land]]></title>
             <link>https://reasonstobecheerful.world/great-plains-ranchers-prescribed-burns/</link>
