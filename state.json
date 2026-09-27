@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -576,6 +576,15 @@
       "link": "https://reasonstobecheerful.world/nairobi-libraries-civic-hubs/",
       "guid": "a27c38c00292fa13d7f216d76029da59019f7435",
       "publishedAt": "2026-09-25T08:00:13.000Z"
+    },
+    {
+      "date": "2026-09-27",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "Podcast Transcript September 25th, 2026— The tilcayo, cancer-sniffing dogs, and 8 more things going right",
+      "link": "https://www.optimistdaily.com/2026/09/podcast-transcript-september-25th-2026-the-tilcayo-cancer-sniffing-dogs-and-8-more-things-going-right/",
+      "guid": "30b1c1c13f9569ab2c4ad300b7c517e4e600333a",
+      "publishedAt": "2026-09-25T16:30:20.000Z"
     }
   ]
 }
