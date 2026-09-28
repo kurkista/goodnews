@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -585,6 +585,15 @@
       "link": "https://www.optimistdaily.com/2026/09/podcast-transcript-september-25th-2026-the-tilcayo-cancer-sniffing-dogs-and-8-more-things-going-right/",
       "guid": "30b1c1c13f9569ab2c4ad300b7c517e4e600333a",
       "publishedAt": "2026-09-25T16:30:20.000Z"
+    },
+    {
+      "date": "2026-09-28",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Good News in History September 28",
+      "link": "https://www.goodnewsnetwork.org/events060928/",
+      "guid": "a91e88e420ec4f17f39c44e07e2e0401433463da",
+      "publishedAt": "2026-09-28T07:00:00.000Z"
     }
   ]
 }

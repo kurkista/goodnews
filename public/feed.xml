@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Fri, 25 Sep 2026 16:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 07:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good News in History September 28]]></title>
+            <link>https://www.goodnewsnetwork.org/events060928/</link>
+            <guid>a91e88e420ec4f17f39c44e07e2e0401433463da</guid>
+            <pubDate>Mon, 28 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Good News Network — read the full story at the original source.]]></description>
+            <category>Good News Network</category>
+        </item>
         <item>
             <title><![CDATA[Podcast Transcript September 25th, 2026— The tilcayo, cancer-sniffing dogs, and 8 more things going right]]></title>
             <link>https://www.optimistdaily.com/2026/09/podcast-transcript-september-25th-2026-the-tilcayo-cancer-sniffing-dogs-and-8-more-things-going-right/</link>
