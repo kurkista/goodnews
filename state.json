@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -603,6 +603,15 @@
       "link": "https://www.positive.news/environment/the-forest-is-life-how-indigenous-communities-in-peru-are-preventing-wildfires/",
       "guid": "108a374df2db2fd45af7c441bf008540ba52e2c4",
       "publishedAt": "2026-09-29T08:00:53.000Z"
+    },
+    {
+      "date": "2026-09-30",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "What We’re Reading: Rat Rangers to the Rescue",
+      "link": "https://reasonstobecheerful.world/what-were-reading-rat-rangers-dc/",
+      "guid": "58cfe8121360e7e9fa0d59c0fc5a4a7f8eb97ef3",
+      "publishedAt": "2026-09-30T08:00:58.000Z"
     }
   ]
 }
