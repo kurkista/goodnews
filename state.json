@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -621,6 +621,15 @@
       "link": "https://www.optimistdaily.com/2026/10/the-herbs-and-spices-dietitians-say-support-immune-function/",
       "guid": "18bb828ca7a45a54188ae4bbe78393d27c14ba2f",
       "publishedAt": "2026-10-01T00:00:22.000Z"
+    },
+    {
+      "date": "2026-10-02",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Good News in History, October 2",
+      "link": "https://www.goodnewsnetwork.org/events061002/",
+      "guid": "3e5b640cb03523aaccd13b0c2a2bbbb72da4b37d",
+      "publishedAt": "2026-10-02T07:00:00.000Z"
     }
   ]
 }

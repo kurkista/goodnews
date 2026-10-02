@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Thu, 01 Oct 2026 00:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 07:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good News in History, October 2]]></title>
+            <link>https://www.goodnewsnetwork.org/events061002/</link>
+            <guid>3e5b640cb03523aaccd13b0c2a2bbbb72da4b37d</guid>
+            <pubDate>Fri, 02 Oct 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Good News Network — read the full story at the original source.]]></description>
+            <category>Good News Network</category>
+        </item>
         <item>
             <title><![CDATA[The herbs and spices dietitians say support immune function]]></title>
             <link>https://www.optimistdaily.com/2026/10/the-herbs-and-spices-dietitians-say-support-immune-function/</link>
