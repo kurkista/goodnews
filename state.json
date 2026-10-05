@@ -1,5 +1,5 @@
 {
-  "feedIndex": 3,
+  "feedIndex": 4,
   "history": [
     {
       "date": "2026-07-24",
@@ -648,6 +648,15 @@
       "link": "https://reasonstobecheerful.world/the-spark-the-community-lighthouses/",
       "guid": "24b9349d30378088fb8be557464b999ce3f779f7",
       "publishedAt": "2026-10-02T08:00:29.000Z"
+    },
+    {
+      "date": "2026-10-05",
+      "feedId": "optimist-daily",
+      "feedName": "The Optimist Daily",
+      "title": "Wisconsin’s first certified Shinrin-yoku trail is open to everyone",
+      "link": "https://www.optimistdaily.com/2026/10/wisconsins-first-certified-shinrin-yoku-trail-is-open-to-everyone/",
+      "guid": "73f28798847a0ca3d34d65b24ba722a6ca28e675",
+      "publishedAt": "2026-10-05T00:00:46.000Z"
     }
   ]
 }
