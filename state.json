@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -657,6 +657,15 @@
       "link": "https://www.optimistdaily.com/2026/10/wisconsins-first-certified-shinrin-yoku-trail-is-open-to-everyone/",
       "guid": "73f28798847a0ca3d34d65b24ba722a6ca28e675",
       "publishedAt": "2026-10-05T00:00:46.000Z"
+    },
+    {
+      "date": "2026-10-06",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Good News in History, October 6",
+      "link": "https://www.goodnewsnetwork.org/events061006/",
+      "guid": "a8f40ae0e6d9006aa2032a7c596410190d1e3d87",
+      "publishedAt": "2026-10-06T07:00:00.000Z"
     }
   ]
 }
