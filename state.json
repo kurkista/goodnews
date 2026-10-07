@@ -1,5 +1,5 @@
 {
-  "feedIndex": 1,
+  "feedIndex": 2,
   "history": [
     {
       "date": "2026-07-24",
@@ -666,6 +666,15 @@
       "link": "https://www.goodnewsnetwork.org/events061006/",
       "guid": "a8f40ae0e6d9006aa2032a7c596410190d1e3d87",
       "publishedAt": "2026-10-06T07:00:00.000Z"
+    },
+    {
+      "date": "2026-10-07",
+      "feedId": "positive-news",
+      "feedName": "Positive News",
+      "title": "A future worth building. What to expect in the new issue of Positive News magazine",
+      "link": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
+      "guid": "b94d97597b3bf3a51b77c79804f65ce43924514e",
+      "publishedAt": "2026-10-07T10:16:24.000Z"
     }
   ]
 }
