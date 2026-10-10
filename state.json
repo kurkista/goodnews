@@ -1,5 +1,5 @@
 {
-  "feedIndex": 4,
+  "feedIndex": 1,
   "history": [
     {
       "date": "2026-07-24",
@@ -693,6 +693,15 @@
       "link": "https://www.optimistdaily.com/2026/10/the-floating-scarecrow-saving-seabirds-from-fishing-nets/",
       "guid": "4a328c9c2f7f2c30c3c578547667af39b80f88b3",
       "publishedAt": "2026-10-09T00:00:41.000Z"
+    },
+    {
+      "date": "2026-10-10",
+      "feedId": "good-news-network",
+      "feedName": "Good News Network",
+      "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-10-2026/",
+      "guid": "ba000cc461645cb7c4c0b1729e1b02a36957614f",
+      "publishedAt": "2026-10-10T10:00:59.000Z"
     }
   ]
 }

@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Fri, 09 Oct 2026 00:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 10:00:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny]]></title>
+            <link>https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-10-2026/</link>
+            <guid>ba000cc461645cb7c4c0b1729e1b02a36957614f</guid>
+            <pubDate>Sat, 10 Oct 2026 10:00:59 GMT</pubDate>
+            <description><![CDATA[Good News Network — read the full story at the original source.]]></description>
+            <category>Good News Network</category>
+        </item>
         <item>
             <title><![CDATA[The floating scarecrow saving seabirds from fishing nets]]></title>
             <link>https://www.optimistdaily.com/2026/10/the-floating-scarecrow-saving-seabirds-from-fishing-nets/</link>
