@@ -1,5 +1,5 @@
 {
-  "feedIndex": 1,
+  "feedIndex": 2,
   "history": [
     {
       "date": "2026-07-24",
@@ -702,6 +702,15 @@
       "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-10-2026/",
       "guid": "ba000cc461645cb7c4c0b1729e1b02a36957614f",
       "publishedAt": "2026-10-10T10:00:59.000Z"
+    },
+    {
+      "date": "2026-10-11",
+      "feedId": "positive-news",
+      "feedName": "Positive News",
+      "title": "‘I can breathe again’. Readers share their experiences of a more balanced media diet",
+      "link": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
+      "guid": "2b85f077c50b79ea6dbeb1271ae73d0cd7f228a7",
+      "publishedAt": "2026-10-09T12:45:19.000Z"
     }
   ]
 }
