@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Fri, 09 Oct 2026 12:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 08:00:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can Students and Teachers Learn to Trust Each Other in the Age of A.I.?]]></title>
+            <link>https://reasonstobecheerful.world/can-students-and-teachers-learn-to-trust-each-other-in-the-age-of-ai/</link>
+            <guid>715dbe3c0dde853a80d97dd24a76bafd3f1b21d1</guid>
+            <pubDate>Mon, 12 Oct 2026 08:00:25 GMT</pubDate>
+            <description><![CDATA[Reasons to be Cheerful — read the full story at the original source.]]></description>
+            <category>Reasons to be Cheerful</category>
+        </item>
         <item>
             <title><![CDATA[‘I can breathe again’. Readers share their experiences of a more balanced media diet]]></title>
             <link>https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/</link>

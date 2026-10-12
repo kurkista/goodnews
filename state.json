@@ -1,5 +1,5 @@
 {
-  "feedIndex": 2,
+  "feedIndex": 3,
   "history": [
     {
       "date": "2026-07-24",
@@ -711,6 +711,15 @@
       "link": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
       "guid": "2b85f077c50b79ea6dbeb1271ae73d0cd7f228a7",
       "publishedAt": "2026-10-09T12:45:19.000Z"
+    },
+    {
+      "date": "2026-10-12",
+      "feedId": "reasons-to-be-cheerful",
+      "feedName": "Reasons to be Cheerful",
+      "title": "Can Students and Teachers Learn to Trust Each Other in the Age of A.I.?",
+      "link": "https://reasonstobecheerful.world/can-students-and-teachers-learn-to-trust-each-other-in-the-age-of-ai/",
+      "guid": "715dbe3c0dde853a80d97dd24a76bafd3f1b21d1",
+      "publishedAt": "2026-10-12T08:00:25.000Z"
     }
   ]
 }
