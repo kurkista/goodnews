@@ -4,12 +4,20 @@
         <title>GoodNews</title>
         <link>https://goodnews.kurkista.fi/</link>
         <description>One good, constructive-news story a day, relayed from vetted sources. GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</description>
-        <lastBuildDate>Mon, 12 Oct 2026 08:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 00:00:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>goodnews (github.com/kurkista/goodnews)</generator>
         <language>en</language>
         <copyright>GoodNews claims no ownership of, and does not host, any linked content. We are not responsible for the relayed content or its factual accuracy — full rights and responsibility for accuracy remain with the original publishers.</copyright>
         <atom:link href="https://goodnews.kurkista.fi/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The common skin care mistakes dermatologists say are working against your routine]]></title>
+            <link>https://www.optimistdaily.com/2026/10/the-common-skin-care-mistakes-dermatologists-say-are-working-against-your-routine/</link>
+            <guid>4252faadd9c3622271a49874c3be072d32ca5218</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:49 GMT</pubDate>
+            <description><![CDATA[The Optimist Daily — read the full story at the original source.]]></description>
+            <category>The Optimist Daily</category>
+        </item>
         <item>
             <title><![CDATA[Can Students and Teachers Learn to Trust Each Other in the Age of A.I.?]]></title>
             <link>https://reasonstobecheerful.world/can-students-and-teachers-learn-to-trust-each-other-in-the-age-of-ai/</link>
