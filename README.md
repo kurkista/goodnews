@@ -1,3 +1,5 @@
+> **Paused 2026-10-14.** No new stories are picked. See [SUNSET.md](SUNSET.md) for the state and how to resurrect it.
+
 # GoodNews
 
 One good, constructive-news story a day, relayed as RSS — no signup, no
