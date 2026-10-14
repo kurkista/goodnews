@@ -1,5 +1,7 @@
 # goodnews — sunset record (2026-10-14)
 
+> **Update 2026-10-14 (later):** Fly app `goodnews` was **destroyed** and the `FLY_API_TOKEN` secret deleted. The Fly rows below describe the state *before* that. Remaining owner-only steps: delete the `goodnews` A/AAAA records at 1984.is DNS, and cancel the Blogtrottr subscription. To resurrect now: `flyctl apps create goodnews`, `flyctl deploy`, `flyctl certs add goodnews.kurkista.fi`, new Fly IPs and DNS, a new deploy token as `FLY_API_TOKEN`, then the steps below.
+
 GoodNews is **paused, not deleted**. This records the exact state so it can be
 resurrected later without archaeology.
 
